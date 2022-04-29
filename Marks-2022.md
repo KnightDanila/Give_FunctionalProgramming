@@ -1,4 +1,3 @@
-7	316 - 458
 <!---
 https://docs.google.com/spreadsheets/d/1wAjBpfvJ7GdFSEBzvXM-5R_BZ8H6l2ZvvDeQ3bCa4JU/edit?usp=sharing_eip_dm&ts=6214ff89
 https://github.com/orgs/dnu-dp-ua-applied-math/repositories
@@ -62,17 +61,17 @@ https://github.com/orgs/dnu-dp-ua-applied-math/repositories
 |Бушуев Данило		|+(100)||||			|+|100+++++++++++| - BDO - https://github.com/dnu-dp-ua-applied-math/2021-2022_FTP_PA-18-3_01/tree/lab1
 |Чорний Максим		|+(100)||||			|+|++++++++100+|	polazaz - https://github.com/dnu-dp-ua-applied-math/2021-2022_FTP_PA-18-3_21/tree/Lab1
 |Ткачёв	Константин	|+(100)||||			|+|++++++++100+|	trems - Сияние Кинг - https://github.com/dnu-dp-ua-applied-math/2021-2022_FTP_PA-18-3_18/tree/LAB1
-|Дольникова Юлия	|||||		||?++++++++|
-|Кормильцева Полина	|+(100)||||				||++++++++|	https://github.com/dnu-dp-ua-applied-math/2021-2022_FTP_PA-18-3_08/tree/pkormiltseva-lab-1
-|Лешанов Андрей		|||||		||?+++++++++|
-|Мешалкина Мария	|||||		||?+++++++++|
-|Удалов	Михайло		|+(100)||||				|+|++++++++95+|	
+|Дольникова Юлия	|||||				||?++++++++|
+|Кормильцева Полина	|+(100)||||			||++++++++|			https://github.com/dnu-dp-ua-applied-math/2021-2022_FTP_PA-18-3_08/tree/pkormiltseva-lab-1
+|Лешанов Андрей		|||||				||+++++++++|
+|Мешалкина Мария	|||||				||?+++++++++|
+|Удалов	Михайло		|+(100)||||			|+|++++++++100+|	https://github.com/dnu-dp-ua-applied-math/2021-2022_FTP_PA-18-3_19
 |Косян Роман 		|||||				|?|++++++++?|		????????????
 |Переверзев Глеб	|||||				|+|++++++++100+| GAP
 |Давидов Тигран		|||||				|?|++++++++71|
 |Ивчук Олексей		|||||				|?|++++++++?|		????????????
 |Мороз Антон		|||||				|+|++++++++95+|
-|Старов Никита		|+()||||				|+|++++++++100+| GS - GreenShark	
+|Старов Никита		|+()||||			|+|++++++++100+| GS - GreenShark	
 ||
 
 <!---
