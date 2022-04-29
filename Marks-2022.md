@@ -75,7 +75,7 @@ https://github.com/orgs/dnu-dp-ua-applied-math/repositories
 |Старов Никита		|+()||||				|+|++++++++100+| GS - GreenShark	
 ||
 
-
+<!---
 # ПА-18-3
 |Name|1|2|3|4|________%__________|КР (max 30)|note(бали)|
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -98,5 +98,4 @@ https://github.com/orgs/dnu-dp-ua-applied-math/repositories
 |Івчук, Олексій			|||||		||84|
 |Никита, Кричевский		|||||		||64|
 |Старов, Микита			|||||		||100?|
-
-
+-->
